@@ -1,0 +1,18 @@
+.main{
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inn{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    
+}
+
